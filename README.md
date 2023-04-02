@@ -5,8 +5,6 @@
                                                
 Here are some ideas to get you started:
 
-![image](https://user-images.githubusercontent.com/129221018/229324155-4610433a-789f-47db-9c44-f8482ae673ba.png)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
